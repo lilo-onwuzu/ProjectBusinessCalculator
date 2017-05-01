@@ -9,7 +9,8 @@
 	03.18.2016
 
 #### _Description_
-	This code prompts the user for two numbers and performs an arithmetic operation (addition) on the numbers. Scripting through a javascript file linked to html page.
+	This code prompts the user for two numbers and performs an arithmetic operation (addition) on the numbers 
+	Scripting through a javascript file linked to html page.
 
 #### _Setup/Installation Requirements_
 	Clone this repository before setting up
