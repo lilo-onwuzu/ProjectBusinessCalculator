@@ -1,6 +1,6 @@
 
 ## _Title_
-	Epicodus- Introduction to Programming - Porfolio Page
+	Epicodus- Introduction to Programming - Basic Calculator
 	
 #### _Creator_
 	Lilo Onwuzu 
