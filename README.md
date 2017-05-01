@@ -1,32 +1,31 @@
-# _Calculator_
 
-#### _Business Logic Calculator Project for Epicodus Week 2 Javascript and JQuery_
+## _Title_
+	Epicodus- Introduction to Programming - Porfolio Page
+	
+#### _Creator_
+	Lilo Onwuzu 
+	
+#### _Date_
+	03.18.2016
 
-#### By _**Ililochi Onwuzu**_
+#### _Description_
+	This code prompts the user for two numbers and performs an arithmetic operation (addition) on the numbers. Scripting through a javascript file linked to html page.
 
-## Description
+#### _Setup/Installation Requirements_
+	Clone this repository before setting up
+  Follow command prompts
 
-_This code prompts the user for two numbers and perfoms an arithmetic operation (addition, subtraction etc) on the numbers. There is a link to the javascript .js file in the html file_
+#### _Known Bugs_
+ 	None
 
-## Setup/Installation Requirements
+#### _Support and contact details_
+	lpr422@gmail.com
+	
+#### _Technologies Used_
+	HTML, Javascript
 
-* _Basic Calculator_
-* _Follow the command prompts_
+#### _License_
+	This software is licensed under the MIT license
+	Copyright (c) 2016 IPONWUZU
 
-## Known Bugs
 
-_None_
-
-## Support and contact details
-
-_lpr422@gmail.com_
-
-## Technologies Used
-
-_HTML, CSS, Javascript_
-
-### License
-
-*This Software Is Licensed Under MIT.*
-
-Copyright (c) 2015 **_Onwuzu, LPO Inc._**
