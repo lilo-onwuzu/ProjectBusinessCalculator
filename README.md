@@ -6,7 +6,7 @@
 	Lilo Onwuzu 
 	
 #### _Date_
-	03.18.2016
+	03.22.2016
 
 #### _Description_
 	This code prompts the user for two numbers and performs an arithmetic operation (addition) on the numbers 
