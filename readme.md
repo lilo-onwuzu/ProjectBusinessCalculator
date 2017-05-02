@@ -13,8 +13,9 @@
 	Scripting through a javascript file linked to html page.
 
 #### _Setup/Installation Requirements_
-	Clone this repository before setting up
-  Follow command prompts
+	Clone this repository
+	Open index.html file in browser
+	Follow command prompts
 
 #### _Known Bugs_
  	None
